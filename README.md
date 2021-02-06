@@ -2,5 +2,5 @@
 This is a Twitter bot that will translate the text from an image to English when mention.
 
 # Example Usage
-![image](https://user-images.githubusercontent.com/70973703/107101732-4b654880-67e6-11eb-94a1-e34945572e38.png)
+![image](https://user-images.githubusercontent.com/70973703/107101850-a1d28700-67e6-11eb-948a-c4da15f067d0.png)
 
